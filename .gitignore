@@ -1,0 +1,5 @@
+# Local preview config (not needed for deploy)
+.claude/
+
+# OS junk
+.DS_Store
