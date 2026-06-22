@@ -38,6 +38,10 @@ Each reason is one `<li>` in `index.html`:
 
 The numbers are generated automatically, so just add the `<li>` in the order you want. Bump the "Last updated" date in the header when you make changes.
 
+## Contributing
+
+Contributions are welcome! Got another reason to use open-source models — or a better source for an existing one? Open a pull request (add or edit an `<li>` as shown above) or file an issue with the suggestion. Sources and real-world examples are especially appreciated.
+
 ## Deploy
 
 Hosted on GitHub Pages from `main` (root). Any push rebuilds the site automatically:
